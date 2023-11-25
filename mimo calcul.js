@@ -1,6 +1,6 @@
 function calcul(height,weight)
 {
-return weight/(height * heigtht);
+return weight/(height * height);
 }
 const result = calcul(1.7,70);
 console.log(result);
