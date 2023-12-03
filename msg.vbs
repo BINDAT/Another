@@ -1,1 +1,1 @@
-@echo msgbox "bonjour"
+msgbox "bonjour"
