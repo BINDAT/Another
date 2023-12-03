@@ -1,16 +1,3 @@
 do
-msgbox "Red�marrage planifi� veuillez cliquer sur le bouton OK pour continuer"
-msgbox "Non je d�conne c'est pas vrai maintenant tu vas en chier pour m'enlev� lol ^^"
-msgbox "Bon je pense que quoi qu'il arrive tu vas appuyez comme un kikou lol dessus -_-"
-msgbox "Bon sa commence � �tre ennuyant pour moi qui programme ce script mais bon"
-msgbox "Tu sais que pour te d�barrasser de moi il suffit d'allez dans le segotin eds echt� j'esp�re avoir pu d'aidez"
-msgbox "Bon je vois que tu gal�re alors autant te cultiv� un peu oui, je fait des fautes d'ortographe et alors je fait ce que je veut et puis bon je m'en fiche de toute fa�on car ce n'est pas moi qui vas passez 1 bonne heure pour enlevez se script"
-msgbox "Es-ce que tu sais ce qu'est vraiment la couleur noire ? au cas ou je te donne une d�finition que j'ai trouv� dans un dictionnaire {Se dit de la couleur la plus fonc�e, due � l'absence ou � l'absorption totale des rayons lumineux, par opposition au blanc et aux autres couleurs}"
-msgbox "Bon toujours la � ce que je vois mais bon de toute tu peut toujours y'allez la mani�re br�tale ne r�sout rien et la si tu veut savoir moi je suis au loin entrain de paisiblement sois me marr� de toi car bon faut comme m�me l'avouer tu est incomp�tent en informatique ou sois je regarde une vid�o youtube tout en fessant cuir mon poulet au four et en plus fa�on mexicaine"
-msgbox "Bon clairemment si tu sais pas abandonne car de toute fa�on tu n'arrivera pas au moins tu a fait ce que tu as pu et ont ne t'en voudras pas pour sa"
-msgbox "Bon bas moi la clairemment j'en suis � la fin du script sur ce que j'avais � dire donc pour meubler un peu ton ennui je vais copier des informations histoire que tu t'ennui pas trop"
-msgbox "L'un des t�l�phones les plus gros d'Allpe et l'Ipad Pro de 12,9 pouces source sur youtube https://www.youtube.com/watch?v=4SdT_OdnrgE"
-msgbox "Sais tu qu'il existe sur android des jeux pour aveugle exemple : Blind Legend"
-msgbox "Bon bas bisou"
-msgbox "Apr�s ce message le script retournera au d�but"
+msgbox "Apres ce message le script retournera au debut"
 loop
