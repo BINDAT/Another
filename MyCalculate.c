@@ -35,5 +35,6 @@ int main()
             printf("Le resultat est %f",nombre_1 * nombre_2);
         break;
       }
+return(0);
     }   
 }
