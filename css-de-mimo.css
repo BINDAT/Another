@@ -16,3 +16,7 @@ second {
  display : flex;
  width : 300px;
 }
+
+/* 
+les blocs first et second seront sur la même longueur de plus le container feras apparaître des bordures de 3 pixel avec une couleur sur une longueur de 300 pixels et gère le flex item lui se charge du remplissage par sont margin de 1 pixel.
+*/
