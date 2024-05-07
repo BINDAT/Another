@@ -1,0 +1,18 @@
+.first {
+ flex: 0 1 auto;
+}
+
+second {
+ flex: 0 1 auto;
+}
+
+.item {
+ background-color : #BFDAF9;
+ margin: 1px;
+}
+
+.container {
+ border: solid 3px #BFDAF9
+ display : flex;
+ width : 300px;
+}
