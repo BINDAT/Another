@@ -1,6 +1,6 @@
-import std.stdio;
+import std.stdio; //librairie
 
-void main()
+void main()//Bloc de fonction
 {
-    writeln("Bonjour depuis le langage D !");
+    writeln("Bonjour depuis le langage D !"); //instruction d'affichage.
 }
