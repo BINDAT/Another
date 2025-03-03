@@ -1,1 +1,1 @@
-fprint ("Bonjour");
+fprintf('Bonjour');
