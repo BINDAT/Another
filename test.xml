@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ressources>
- <string name="hello"> Hello </string>
- <string name="droid"> Droid </string>
-</ressources>
+<?xml version="1.0" encoding="utf-8"?> <!---Début des ressources -->
+<ressources> <!---Début des ressources -->
+ <string name="hello"> Hello </string> <!-- Message de bienvenue -->
+ <string name="droid"> Droid </string> <!-- Message pour le droïde -->
+</ressources> <!---Fin des ressources -->
