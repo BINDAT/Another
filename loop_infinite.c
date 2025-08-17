@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-void main()
+void main() //fonction principale
 {
-while(1){
-    printf("coucou");
+while(1){ // boucle infinie
+    printf("coucou"); //affichage du message
 }
 }

@@ -1,3 +1,3 @@
-while(1){
- print("coucou");
+while(1){ // boucle infinie
+ print("coucou"); //affichage du message
 }

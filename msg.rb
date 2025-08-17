@@ -1,1 +1,1 @@
-puts "Mon message en ruby"
+puts "Mon message en ruby" # Affichage du message
