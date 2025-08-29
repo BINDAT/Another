@@ -1,0 +1,13 @@
+html = "<html><body><table border='1'>"
+
+for elem in root.findall("element"):
+    html += "<tr>"
+    html += f"<td>{elem.find('id').text}</td>"
+    html += f"<td>{elem.find('nom').text}</td>"
+    html += f"<td>{elem.find('valeur').text}</td>"
+    html += "</tr>"
+
+html += "</table></body></html>"
+
+with open("sortie.html", "w", encoding="utf-8") as f:
+    f.write(html)
